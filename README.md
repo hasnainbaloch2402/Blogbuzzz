@@ -1,1 +1,1 @@
-Weview script for https://blogbuzzz.com/
+Web view script for https://blogbuzzz.com/
